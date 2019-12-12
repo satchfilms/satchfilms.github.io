@@ -7,7 +7,7 @@
 <style>
 </style>
 
-<link rel="stylesheet" type="text/css" href="Assignment3.css">
+<link rel="stylesheet" type="text/css" href="satchfilms.github.io/Assignment3.css">
 </head>
 
 
