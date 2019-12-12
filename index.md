@@ -5,9 +5,10 @@
 <head>
 
 <style>
+<link rel="stylesheet" type="text/css" href="satchfilms.github.io/assignment8.css">
 </style>
 
-<link rel="stylesheet" type="text/css" href="satchfilms.github.io/assignment8.css">
+
 </head>
 
 
